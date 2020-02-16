@@ -1,0 +1,8 @@
+Username of User: admin
+Total Number of Users: 1
+Total Number of Tasks: 1
+Total Number of Users Tasks: 1
+Tasks Assigned to User: 100%
+Users Tasks Completed: 0%
+Users Tasks Incomplete: 100%
+Users Tasks Overdue: 0%
